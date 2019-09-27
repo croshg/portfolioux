@@ -1,0 +1,54 @@
+* {padding: 0;
+    margin: 0;}
+
+
+@font-face  { 
+        font-family: "bella";
+        src: url("fonts/Bella\ Donna\ Personal\ Use.ttf");
+            }
+    
+@font-face  { 
+        font-family: "Oswald";
+        src: url("fonts/Oswald-Bold.ttf");
+            }
+
+body {background-color: #FFA4B2;
+        font-family: "Oswald";
+        font-size: 8rem;
+        color: #3D863B;
+    }
+
+#estante {display: flex;
+            flex-flow: row;
+            justify-content: space-between;
+            width: 85%;
+            margin: auto;
+            padding: 0.2% 4%;
+            height: 50px;
+            background-color: #5D3D42;
+            color: #FFA4B2;
+            
+}
+
+button {
+        width: 20rem;
+        height: 12rem;
+        background-color: #3D863B;
+        font-size: 3rem;
+        color: white;
+        text-align: center;
+        position: fixed;
+        right: 25px ;
+        bottom: 25px;
+        border-radius: 20px;
+}
+
+button:hover {
+                background-color: #F5C64C;
+                }
+
+.sobrestante {
+                display: flex;
+                flex-flow: row;
+                justify-content: space-around;
+}

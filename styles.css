@@ -1,0 +1,241 @@
+* {margin: 0;
+    padding: 0;}
+
+@font-face { 
+    font-family: "friday-stroke";
+    src: url("fonts/Friday-Stroke.otf");}
+ @font-face  { 
+    font-family: "typewriter";
+    src: url("fonts/JMH-Typewriter-dry-Thin.otf");
+        }
+
+        @font-face  { 
+            font-family: "bella";
+            src: url("fonts/Bella\ Donna\ Personal\ Use.ttf");
+                }
+        
+@font-face  { 
+            font-family: "Oswald";
+            src: url("fonts/Oswald-Bold.ttf");
+                }
+@font-face  { 
+            font-family: "Dollie";
+                    src: url("fonts/DollieScript_PersonalUse.ttf");
+                        }
+body {
+    background-color: #3C408A;}
+
+header{ width: 100%;
+    
+}
+
+
+nav { font-family: "Oswald"; 
+        font-size: 2rem;
+        color: azure;
+        width: 50%;
+        margin: 0px 0px 2%  50%;
+        height: 60px;
+        display: flex;
+        flex-direction: row;
+    
+}
+
+ul{ width: 100%;
+    margin-right: 3%;
+    padding: 4px 10px ;
+    list-style: none outside none;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.portada {height: 400px;}
+/* #3D863B  */
+
+a{ cursor: pointer;
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+    }
+
+h1 {
+    color: #F5C64C;
+    font-size: 200px; 
+    font-family: "Oswald";
+    text-align: center;
+}
+
+h2 { 
+    font-family: "Oswald";
+    color: #FFA4B2;
+    font-size: 50px;
+    text-align: center;
+    line-height: 0.9;
+}
+.circ {width: 4cm; 
+        height: 2cm;
+        border-radius: 70px; 
+        margin-left: 80%;
+        background-color: rgb(72, 129, 81);
+        text-align: center;
+        font-family: "typewriter";
+        font-size: 12pt;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        color: #3C408A;
+        padding-top: 25px;
+    }
+ .mini {font-size: 10pt;
+            color: #FFA4B2;
+        }       
+
+
+
+
+
+section {
+         margin: 40px 10px 0px 10px;
+        padding: 20px;
+        position: relative;
+        width: 95%; 
+        height: 700px;
+}
+
+div {
+    position: relative; 
+   
+    opacity: 1;
+
+}
+
+/*div .arriba { display: flex;
+                flex-direction: column;
+        
+                justify-content: space-between;
+}
+
+#bajo {display: flex;
+        justify-content: baseline; }*/
+
+#izq {
+
+}
+
+
+#dcha {
+    position: absolute;
+        right: 6%;
+        top: 0%;
+    }
+#bajo {
+    position: absolute;
+        bottom: 0px;
+        right: 30% ;
+    }
+
+#art {
+        position: absolute;
+        bottom: 0px; 
+        left: 10%;
+}
+
+#izq:hover, #dcha:hover, #bajo:hover, #art:hover { opacity: 0.8; transform: scale(1.1) ;}
+
+
+footer { 
+    object-position: bottom ;
+        bottom: 0px;
+        width: 100%;
+        height: 120px;
+        background-color: #5D3D42;
+        font-family: "Oswald";
+        font-size: 30px;
+        text-align: center
+    }
+.mesa {
+    display: flex;
+        justify-content: space-around;
+        margin-top: 20px;
+}
+
+.icono {
+    width: 1cm;
+        height: 1cm;
+    } 
+    
+#mail {
+    width: 2cm;
+    height: 1cm;
+}
+
+
+.CV {font-family: "typewriter";
+}
+
+.grid {
+    z-index: 0;
+    display: grid;
+    width: 100vw;
+    height: 100vh;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows:repeat(3, 1fr) ;
+    position: relative;
+}
+
+
+
+.item {
+    padding: 50px;
+}
+
+#item-7{
+    position: absolute;
+    z-index: 1;
+    background-color: #F5C64C;
+    width: 25%;
+    height: 25%;
+    transform: translate(-50%, -50%);
+    top: 60%;
+    left: 52%;
+    box-shadow: 3px 3px 10px 2px whitesmoke;
+}
+
+#item-5 {
+    display: grid;
+    align-content: center;
+}
+
+.centro { color: #3C408A}
+
+#item-2  #item-4 #item-6 { background-color: #3D863B;}
+
+p{color: aliceblue;
+
+    padding-top: 5%;
+    text-align: justify;}
+
+
+
+
+/* .titulo {color: #F5C64C;
+            font-size: 1rem;}
+p { width: 300px; height: 300px;
+    color: #FFA4B2;} */
+
+@media only screen and (min-width:415px) and (max-width:768px)
+
+
+
+
+
+/*
+MEDIA QUERYS DE RESPONSIVE DESIGN
+@media only screen and (min-width:415px) and (max-width:768px){
+}
+@media only screen and (min-width:769px) and (max-width:1024px){
+}
+@media only screen and (min-width:1025px) and (max-width:1440px){
+}
+@media only screen and (min-width:1441px){
+}
+*/
