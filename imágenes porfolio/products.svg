@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="292px" height="412px" viewBox="0 0 292 412" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy" transform="translate(-667.000000, -340.000000)">
+            <g id="Group-2" transform="translate(667.000000, 340.000000)">
+                <rect id="Rectangle" fill="#FFA4B2" x="6" y="5" width="280" height="400"></rect>
+                <g id="phones" transform="translate(127.000000, 196.000000)">
+                    <rect id="Rectangle-Copy-8" fill="#6268DF" x="0" y="0" width="120" height="160"></rect>
+                    <g id="Group-Copy" transform="translate(53.835153, 113.519457) rotate(-90.000000) translate(-53.835153, -113.519457) translate(33.335153, 67.519457)">
+                        <rect id="Rectangle" fill-opacity="0.8" fill="#000000" x="0" y="0" width="41" height="92" rx="4.5"></rect>
+                        <rect id="Rectangle" fill="#D8D8D8" x="2" y="2" width="37" height="83" rx="4.5"></rect>
+                    </g>
+                    <g id="Group" transform="translate(67.000000, 42.000000)">
+                        <rect id="Rectangle" fill="#222121" x="0" y="0" width="41" height="92" rx="4.5"></rect>
+                        <rect id="Rectangle" fill="#D8D8D8" x="2" y="2" width="37" height="83" rx="4.5"></rect>
+                    </g>
+                </g>
+                <g id="Table" transform="translate(46.000000, 60.000000)">
+                    <rect id="Rectangle" fill="#D82C46" x="0" y="0" width="120" height="160"></rect>
+                    <g id="Group" transform="translate(15.000000, 16.000000)">
+                        <rect id="Rectangle" fill-opacity="0.8" fill="#000000" x="0" y="0" width="90" height="132" rx="4.5"></rect>
+                        <rect id="Rectangle" fill="#D8D8D8" x="4" y="3" width="82" height="119" rx="4.5"></rect>
+                    </g>
+                </g>
+                <text id="Products" font-family="Oswald-SemiBold, Oswald" font-size="21" font-weight="500" letter-spacing="0.6125" fill="#6268DF">
+                    <tspan x="105.96" y="384">Products</tspan>
+                </text>
+                <polygon id="Rectangle" fill="#D8D8D8" points="0 0 26 0 0 26"></polygon>
+                <polygon id="Rectangle-Copy-9" fill="#D8D8D8" transform="translate(279.000000, 13.000000) scale(-1, 1) translate(-279.000000, -13.000000) " points="266 0 292 0 266 26"></polygon>
+                <polygon id="Rectangle-Copy-10" fill="#D8D8D8" transform="translate(279.000000, 399.000000) scale(-1, -1) translate(-279.000000, -399.000000) " points="266 386 292 386 266 412"></polygon>
+                <polygon id="Rectangle-Copy-11" fill="#D8D8D8" transform="translate(15.000000, 397.000000) scale(1, -1) translate(-15.000000, -397.000000) " points="2 384 28 384 2 410"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="280px" viewBox="0 0 400 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Tablero case studies</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy" transform="translate(-80.000000, -400.000000)">
+            <g id="Tablero-case-studies" transform="translate(80.000000, 400.000000)">
+                <rect id="Rectangle" fill="#DFE0FF" x="0" y="0" width="400" height="280"></rect>
+                <g id="E" transform="translate(20.000000, 40.000000)">
+                    <path d="M4,64 L4,0 L54.7649494,0 C55.3517607,42.6666667 58.7360907,64 64.9179393,64 C71.0997878,64 50.7938081,64 4,64 Z" id="Path-4" fill="#FFC93C"></path>
+                    <text id="Empatize" transform="translate(30.000000, 32.000000) rotate(-44.000000) translate(-30.000000, -32.000000) " font-family="Calligraffitti-Regular, Calligraffitti" font-size="16" font-weight="normal" letter-spacing="0.466666667" fill="#3C408A">
+                        <tspan x="0.204166667" y="35">Empatize</tspan>
+                    </text>
+                </g>
+                <g id="D" transform="translate(96.000000, 96.000000)">
+                    <path d="M0,64 L0,0 L50.7649494,0 C51.3517607,42.6666667 54.7360907,64 60.9179393,64 C67.0997878,64 46.7938081,64 0,64 Z" id="Path-4-Copy" fill="#FFC93C" transform="translate(31.000000, 32.000000) scale(-1, 1) translate(-31.000000, -32.000000) "></path>
+                    <text id="Define" transform="translate(34.395111, 31.412932) rotate(16.000000) translate(-34.395111, -31.412932) " font-family="Calligraffitti-Regular, Calligraffitti" font-size="16" font-weight="normal" letter-spacing="0.466666667" fill="#3C408A">
+                        <tspan x="13.0794858" y="34.412932">Define</tspan>
+                    </text>
+                </g>
+                <g id="I" transform="translate(174.442894, 51.000000)">
+                    <path d="M3.5571064,64.1285714 C-1.18570213,19.4619048 -1.18570213,-1.87142857 3.5571064,0.128571429 C8.29991492,2.12857143 25.2215647,2.12857143 54.3220558,0.128571429 C48.1402072,42.7952381 48.1402072,64.1285714 54.3220558,64.1285714 C60.5039044,64.1285714 43.5822546,64.1285714 3.5571064,64.1285714 Z" id="Path-4-Copy-2" fill="#FFC93C" transform="translate(27.781311, 32.064286) scale(1, -1) translate(-27.781311, -32.064286) "></path>
+                    <text id="Ideate" transform="translate(28.557106, 29.000000) rotate(-17.000000) translate(-28.557106, -29.000000) " font-family="Calligraffitti-Regular, Calligraffitti" font-size="16" font-weight="normal" letter-spacing="0.466666667" fill="#3C408A">
+                        <tspan x="7.8821064" y="32">Ideate</tspan>
+                    </text>
+                </g>
+                <g id="P" transform="translate(235.507943, 144.000000)">
+                    <path d="M4.4920572,65 L4.4920572,1 L55.2570066,1 C55.8438179,43.6666667 59.2281479,65 65.4099965,65 C71.591845,65 51.2858653,65 4.4920572,65 Z" id="Path-4-Copy-3" fill="#FFC93C"></path>
+                    <text id="Prototype" transform="translate(30.000000, 33.154333) rotate(52.000000) translate(-30.000000, -33.154333) " font-family="Calligraffitti-Regular, Calligraffitti" font-size="16" font-weight="normal" letter-spacing="0.466666667" fill="#3C408A">
+                        <tspan x="-1.91875" y="36.1543327">Prototype</tspan>
+                    </text>
+                </g>
+                <g id="T" transform="translate(300.604067, 62.000000)">
+                    <path d="M1.39593325,78 C-1.90814766,74.9666328 0.653175807,50.5767746 9.07990365,4.83042555 L60.1608826,-2.84217094e-14 C53.9790341,52 53.9790341,78 60.1608826,78 C69.4336555,78 6.35205462,82.5500509 1.39593325,78 Z" id="Path-4-Copy-4" fill="#FFC93C"></path>
+                    <text id="Test" transform="translate(30.395933, 41.000000) rotate(-17.000000) translate(-30.395933, -41.000000) " font-family="Calligraffitti-Regular, Calligraffitti" font-size="16" font-weight="normal" letter-spacing="0.466666667" fill="#3C408A">
+                        <tspan x="16.8886416" y="44">Test</tspan>
+                    </text>
+                </g>
+                <text id="Case-Studies" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" letter-spacing="0.466666667" fill="#3C408A">
+                    <tspan x="40.968" y="262">Case Studies</tspan>
+                </text>
+                <circle id="Oval" fill="#13142C" cx="9" cy="12" r="4"></circle>
+                <circle id="Oval-Copy-4" fill="#13142C" cx="13" cy="265" r="4"></circle>
+                <circle id="Oval-Copy-3" fill="#13142C" cx="390" cy="20" r="4"></circle>
+                <circle id="Oval-Copy-5" fill="#13142C" cx="393" cy="274" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
